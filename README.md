@@ -2,7 +2,7 @@
 - 📚 I graduated from Oakland University in 2024, receiving a Bachelor's of Science in Information Technology. While I may be done with school, I still love learning new things all the time!
 - 🛒 For the past few years I've been specializing in creating an ERP and CRM system for the company at work at. While unfortunately it has to remain private for now, I plan on making a wide variety of other tools for public use! I own the codebase, and am excited to transform it into a variety of different projects (as well as make the ERP system public later 👀)
 - 💻 I am a consultant at [Computer Motivators](https://www.computermotivators.com), a company that specializes in Managed IT services in Southeast Michigan. If you are interested in IT services from me, that's a great place to start!
-- 🧠 I'm always open to new opertunities and am open to work. Contact me if you're interested in hiring!
+- 🧠 I'm always open to new opportunities and am open to work. Contact me if you're interested in hiring!
 - 🔎 Feel free to check out any of my repositories! My most impressive one for the ERP System is unfortunately not here, but you can check out any of my older repos still! Any of the pinned repos below are a great place to see some of my code work. Check out `gcodepainter` to see how I operate alone, or `BookWorm` as a team!
 - 🤪 Call me crazy, but I enjoy programming in my spare time
 
