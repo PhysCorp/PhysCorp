@@ -7,7 +7,7 @@
 - 🤪 Call me crazy, but I enjoy programming in my spare time
 
 ### Here's the best info to reach me for support, programming, or just to say hi!
-- 📧 [hello@physcorp.com](mailto:hello@physcorp.com)
+- 📧 [technology@computermotivators.com](mailto:technology@computermotivators.com)
 
 <!--
 **PhysCorp/PhysCorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
